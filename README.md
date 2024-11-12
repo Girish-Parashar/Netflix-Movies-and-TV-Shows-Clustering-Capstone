@@ -1,5 +1,8 @@
 # Netflix Movies and TV Shows Clustering
-![logo](https://github.com/Girish-Parashar/Netflix-Movies-and-TV-Shows-Clustering-Capstone/blob/main/Leonardo_Phoenix_Create_a_visually_appealing_project_poster_fo_3.jpg)
+<p align="center">
+  <img src="https://github.com/Girish-Parashar/Netflix-Movies-and-TV-Shows-Clustering-Capstone/blob/main/Leonardo_Phoenix_Design_a_professional_project_poster_for_Netf_0.jpg" width="500"/>
+</p>
+
 
 ## Project Summary
 This dataset includes TV episodes and movies accessible on Netflix as of 2019. The dataset is sourced from Flixable, a third-party Netflix search engine. In 2018, they published an interesting research revealing that the quantity of TV series on Netflix has nearly tripled since 2010. Since 2010, the number of movies available on the streaming service has declined by almost 2,000, but the number of TV series has nearly tripled. It will be interesting to see what additional insights can be extracted from the same dataset. Integrating this dataset with additional external datasets, such as IMDB ratings and Rotten Tomatoes, can yield numerous intriguing results.
